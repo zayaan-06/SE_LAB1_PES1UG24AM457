@@ -1,0 +1,6 @@
+************* Module todo_manager
+todo_manager.py:97:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.83/10 (previous run: 4.18/10, +5.65)
+
